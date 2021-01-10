@@ -1,6 +1,9 @@
 ### 👋
 <p align='center'>
 <img height="32" width="32" src="https://raw.githubusercontent.com/jpza/jpza/main/java.svg"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/jpza/jpza/main/elixir.svg"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/jpza/jpza/main/erlang.svg"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/jpza/jpza/main/torproject.svg"/>
 </p>
 
 <p align='center'>Fighting technical debt 24/7. For enquiries, reach out on <a href="https://twitter.com/jpottsnyc">twitter</a>.</p>
