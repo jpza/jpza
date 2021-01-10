@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋
+<p align='center'>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+
+We are all technical debt.
+</p>
+
+<p align='center'>For enquiries, reach out at <a href="https://twitter.com/jpottsnyc">Twitter</a>.</p>
 
 <!--
 **jpza/jpza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
