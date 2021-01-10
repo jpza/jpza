@@ -1,6 +1,6 @@
 ### 👋
 <p align='center'>
-<img src="https://github.com/jpza/jpza/java.svg"/>
+<img src="https://raw.githubusercontent.com/jpza/jpza/main/java.svg"/>
 </p>
 
 <p align='center'>Fighting technical debt 24/7. For enquiries, reach out on <a href="https://twitter.com/jpottsnyc">twitter</a>.</p>
