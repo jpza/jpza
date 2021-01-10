@@ -2,7 +2,6 @@
 <p align='center'>
 <img height="32" width="32" src="https://raw.githubusercontent.com/jpza/jpza/main/java.svg"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/jpza/jpza/main/elixir.svg"/>
-<img height="32" width="32" src="https://raw.githubusercontent.com/jpza/jpza/main/erlang.svg"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/jpza/jpza/main/torproject.svg"/>
 </p>
 
