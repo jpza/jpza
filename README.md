@@ -17,4 +17,4 @@ Passionate about solving hard problems, building composable financial systems, a
 
 ## 📬 Let's Connect
 
-- [🐦 Twitter](https://twitter.com/jpotts_irr
+- [🐦 Twitter](https://twitter.com/jpotts_irr]
