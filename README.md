@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Justin
 
-### 🚀 CTO | Entrepreneur | Systems Thinker
+### 🚀 CTO | Entrepreneur | Infra Builder
 
-Passionate about solving hard problems, building composable financial systems, and enabling wealth creation
+Passionate about solving hard problems, building financial infrastructure, and enabling wealth creation
 
 ---
 
