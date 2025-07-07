@@ -17,4 +17,4 @@ Passionate about building financial infrastructure
 
 ## 📬 Twitter(X)
 
-- [🐦 Twitter](https://twitter.com/jpotts_irr)
+- [🐦 jpotts_irr](https://twitter.com/jpotts_irr)
