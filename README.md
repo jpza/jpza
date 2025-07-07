@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Justin
 
-### 🚀 CTO | Entrepreneur | Infra Builder
+### 🚀 CTO | Runner | Infra Builder
 
-Passionate about solving hard problems, building financial infrastructure, and enabling wealth creation
+Passionate about building financial infrastructure
 
 ---
 
-## 🧭 Personal Manifesto
+## 🧭 Manifesto
 
-- **🔮 Anticipate the Trend**: Be where the puck is going—not where it is
+- **🔮 Anticipate the Trend**: Be where the puck is going
 - **🧩 Systems Thinking**: Break problems apart, obsess over the details, and rebuild better
-- **🎯 Execution Over Ideas**: Ideas are cheap—deliverables speak volumes
+- **🎯 Execution Over Ideas**: Ideas are cheap
 - **📚 Deep Work**: Protect focus, value clarity, and strive for simplicity in chaos
 
 ---
 
-## 📬 Let's Connect
+## 📬 Twutter(X) Ramblings
 
 - [🐦 Twitter](https://twitter.com/jpotts_irr)
