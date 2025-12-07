@@ -1,8 +1,11 @@
-# 👋 I'm Justin
+# 👋
 
 ### 🚀 CTO | Infra Builder
 
-About some financial infrastructure
+About some financial infrastructure:
+- Credit ledgers
+- Tokenization
+- Collateral systems
 
 ---
 
