@@ -1,10 +1,12 @@
 # 👋
 
-### 🚀 CTO | Infra Builder
+### 🚀 CTO @ Canopy Loan Management System
 
-About some financial infrastructure:
+I build forward-looking financial infrastructure
+
+- Finance as portable software state
 - Credit ledgers
-- Tokenization
+- RWA Tokenization
 - Collateral systems
 
 ---
