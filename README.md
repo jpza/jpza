@@ -1,6 +1,6 @@
 # 👋
 
-### 🚀 CTO @ Canopy Loan Management System
+### 🚀 CTO/CPO
 
 I build forward-looking financial infrastructure
 
