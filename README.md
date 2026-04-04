@@ -8,9 +8,3 @@ I build forward-looking financial infrastructure
 - Credit ledgers
 - RWA Tokenization
 - Collateral systems
-
----
-
-## 📬 Twitter(X)
-
-- [🐦 jpotts_irr](https://twitter.com/jpotts_irr)
