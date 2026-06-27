@@ -1,6 +1,6 @@
 # 👋
 
-### 🚀 CTO/CPO
+### 🚀
 
 I build forward-looking financial infrastructure
 
